@@ -24,7 +24,7 @@ h2
 	font-family: 'Roboto Slab', serif;
 	font-size: 31px;
 }
-input[type=checkbox] 
+input[type=radio]
 {
     position: absolute;
     top: -9999px;

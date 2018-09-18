@@ -26,9 +26,10 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.7.0</version>
-        <configuration>
-          <release>9</release>
-        </configuration>
+          <configuration>
+              <source>1.8</source>
+              <target>1.8</target>
+          </configuration>
       </plugin>
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
